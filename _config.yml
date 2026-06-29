@@ -6,5 +6,5 @@ url: "https://arix-labs.github.io"
 collections:
   Blogs:
       output: true
-          permalink: /blogs/:year/:month/:day/:title/
+          permalink: "/blogs/:year/:month/:day/:title/"
           
