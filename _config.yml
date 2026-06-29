@@ -2,8 +2,3 @@ title: ArixLabs Blog
 description: Official FlutterFlow Partner - delivering scalable apps and AI-powered solutions
 theme: minima
 url: "https://arix-labs.github.io"
-
-collections:
-  Blogs:
-      output: true
-      
