@@ -42,7 +42,7 @@ A best mobile app marketplace that lists multiple templates on the same stack ma
 # **Tech Stack**
 Vynce is built with Flutter on the frontend and Supabase as the backend, the same combination used across most of the flutter tinder clone templates worth considering. OneSignal handles push notifications for matches, messages, and activity, and Stripe and Razorpay are both integrated for subscription payments.
 
-# FAQ
+# **FAQ**
 **Is the source code fully included with a dating app template?**
 
  Vynce includes the working source code for the User App and Admin Dashboard, not just design files or static screens.
