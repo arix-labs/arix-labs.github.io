@@ -10,10 +10,10 @@ This post follows that sequence — what happens after purchasing a spotify clon
 # **What Happens After You Buy a Spotify Clone App Template?**
 The first thing after purchase isn't writing code — it's configuration. Branding, genre categories, and artist onboarding rules need to be set before anything goes live. With spotify source code like LoopIt's, the User App, Artist App, and Admin Dashboard all read from the same Supabase backend, so this stage means setting up that backend, configuring OneSignal for notifications, and deciding what genre and category structure the Admin Dashboard will curate from day one.
 Only after that configuration is the actual product ready to test — playing a track, uploading a release, checking that an artist's analytics dashboard reflects a real stream count rather than a placeholder number.
-## **What's Actually Inside Spotify Source Code Worth Paying For?**
+# **What's Actually Inside Spotify Source Code Worth Paying For?**
 The next question in this sequence is what's actually being paid for. Real spotify source code needs to function across three connected roles, not just play music for listeners.
 
-# User App:
+## User App:
 Sign up / login — phone auth
 Onboarding — genre and artist preferences for a personalized feed
 Music player — play, pause, skip, shuffle, repeat, seek bar
@@ -29,7 +29,7 @@ Podcast support — browse, subscribe, episode playback
 Recently played and listening history
 Social sharing — share songs and playlists externally
 
-# Artist App:
+## Artist App:
 Sign up / profile setup — name, photo, bio, genre, social links
 Upload music — single, album, or EP with cover art and metadata
 Release scheduling — set a future publish date
