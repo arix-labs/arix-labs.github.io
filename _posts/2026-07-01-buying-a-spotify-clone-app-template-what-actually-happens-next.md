@@ -14,31 +14,52 @@ Only after that configuration is the actual product ready to test — playing a 
 The next question in this sequence is what's actually being paid for. Real spotify source code needs to function across three connected roles, not just play music for listeners.
 
 ## User App:
+
 Sign up / login — phone auth
+
 Onboarding — genre and artist preferences for a personalized feed
+
 Music player — play, pause, skip, shuffle, repeat, seek bar
+
 Offline listening — download songs for offline playback
+
 Playlists — create, edit, reorder, delete
+
 Library — saved songs, albums, artists, playlists
+
 Home feed — personalized recommendations, new releases, trending
+
 Search — songs, albums, artists, podcasts
+
 Artist profile — follow, discography, bio
+
 Album and single pages — tracklist, release info, play all
+
 Queue management — view and reorder upcoming tracks
+
 Podcast support — browse, subscribe, episode playback
+
 Recently played and listening history
+
 Social sharing — share songs and playlists externally
 
 ## Artist App:
-Sign up / profile setup — name, photo, bio, genre, social links
-Upload music — single, album, or EP with cover art and metadata
-Release scheduling — set a future publish date
-Analytics dashboard — streams, listeners, followers, geography
-Fan engagement — followers, top listeners
-Manage discography — edit, unpublish, delete
-Notifications — new followers, milestones, payout updates
-A spotify clone app missing the artist side entirely isn't really a music platform — it's a static music library with no way for new content to actually enter it.
 
+Sign up / profile setup — name, photo, bio, genre, social links
+
+Upload music — single, album, or EP with cover art and metadata
+
+Release scheduling — set a future publish date
+
+Analytics dashboard — streams, listeners, followers, geography
+
+Fan engagement — followers, top listeners
+
+Manage discography — edit, unpublish, delete
+
+Notifications — new followers, milestones, payout updates
+
+A spotify clone app missing the artist side entirely isn't really a music platform — it's a static music library with no way for new content to actually enter it.
 ## **Where Should You Buy App Templates for a Music Streaming App?**
 Once it's clear what to look for, the next decision in the sequence is where to actually buy. The risk with music-specific templates is narrower than general ecommerce or booking apps — fewer listings exist across any given best app marketplace, so the comparison pool is smaller, which makes checking the specific listing's feature completeness more important than usual before you buy app templates in this category.
 LoopIt is listed on the Arixlabs Marketplace alongside other Flutter and Supabase builds, giving a point of comparison on tech stack and completeness rather than evaluating a single isolated listing for this category with nothing else to weigh it against.
