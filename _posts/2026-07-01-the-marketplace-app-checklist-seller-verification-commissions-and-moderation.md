@@ -30,35 +30,65 @@ For the checks above to be verifiable, the template needs the full feature set b
 
 ## User App:
 Sign up with phone, email, or social login
+
 Profile creation — name, photo, saved addresses
+
 Browse products — categories, subcategories, search and filters
+
 Product detail — images, description, variants, seller info, ratings
+
 Add to cart and wishlist
+
 Checkout — address selection, delivery estimate, coupon code, order summary
+
 Payment — card, UPI, net banking, COD
+
 Order tracking — live status from placed to delivered
+
 Returns and refunds — raise request, track status
+
 Rate and review products and sellers
+
 Offers, coupons, and referral codes
+
 Push notifications — order confirmed, shipped, out for delivery, delivered
+
 ## Seller App:
+
 Sign up and store setup — name, logo, description, GST, bank details
+
 Add and manage product listings — photos, price, stock, variants
+
 Inventory management — stock updates, low stock alerts
+
 Accept or reject incoming orders
+
 Update order status — processing, shipped, delivered
+
 Manage returns — accept or reject return requests
+
 Earnings dashboard — daily, weekly, monthly breakdown
+
 Payout history and withdrawal requests
+
 ## Admin Dashboard:
+
 User management — buyers and sellers
+
 Seller verification — approve/reject, document checks
+
 Product moderation — approve/reject listings
+
 Category management
+
 Order management — across all sellers, statuses, disputes
+
 Revenue dashboard — GMV, commissions, payouts
+
 Offers and coupon management
+
 Commission settings per category
+
 Analytics — DAU, MAU, orders, revenue trends, top sellers, top products
 
 ## Is Amazon Source Code Actually Production-Ready, or Just a Demo?
