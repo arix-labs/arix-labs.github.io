@@ -23,28 +23,51 @@ The loop closes back with the trainer. FitPulse's Trainer App includes tracking 
 ## **What's Actually Inside Each App**
 The full feature set behind the walkthrough above:
 # **User App:**
+
 Sign up with phone, email, or social login
+
 Profile creation — photos, body metrics, fitness goals, health conditions
+
 Browse trainers — profiles, certifications, ratings, specializations
+
 Track workouts — sets, reps, weight, duration, rest timer
+
 Progress tracking — weight graphs, measurements, before/after photos
+
 Workout history and calendar
+
 Exercise library with video demonstrations
+
 Session reminders and push notifications
+
 Payment history and plan management
+
 Rate and review trainers
+
 # **Trainer App:**
+
 Sign up and profile setup — bio, certifications, photos, specializations
+
 Create workout plans and programs
+
 Exercise library — browse and add custom exercises
+
 Upload exercise videos and demos
+
 Track users and engagement
+
 # **Admin Dashboard:**
+
 User management — members and trainers
+
 Trainer verification — approve/reject, certification checks
+
 Revenue dashboard — earnings, commissions, payouts
+
 Exercise library management
+
 Content moderation — reported users, inappropriate content
+
 Analytics — DAU, MAU, retention, bookings, revenue trends
 
 ## **Is Freeletics Source Code Worth Buying, or Should You Build Custom Workout Logic?**
