@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building a Dating App Like Tinder? Here's What Vynce Includes"
-date: 2026-07-15
+date: 2026-07-01
 permalink: /blogs/2026/07/15/building-a-dating-app-like-tinder-heres-what-vynce-includes/
 ---
 
