@@ -5,7 +5,9 @@ date: 2026-07-01
 permalink: /blogs/2026/07/01/urbanbite-a-ready-made-food-delivery-app-with-source-code-for-user-restaurant-and-delivery-apps/
 ---
 
-A food delivery platform has more moving parts than most other app categories — a customer placing an order, a restaurant managing stock and menus, a delivery partner navigating to two different locations, and an admin team holding all three together. UrbanBite, built by Arixlabs (previously FlutterFlowDevs) using Flutter and Supabase, is food delivery app source code built around all four of these roles rather than just one of them, and is worth comparing against other uber eats source code listings on that basis.
+A food delivery platform has more moving parts than most other app categories — a customer placing an order, a restaurant managing stock and menus, a delivery partner navigating to two different locations, and an admin team holding all three together. 
+
+[UrbanBite](https://www.arixlabs.com/marketplace/urban-bite---food-delivery-app), built by Arixlabs (previously FlutterFlowDevs) using Flutter and Supabase, is food delivery app source code built around all four of these roles rather than just one of them, and is worth comparing against other uber eats source code listings on that basis.
 This post covers what's included in UrbanBite, what to check in any uber eats source code before buying it, how a white label app builder works for food delivery specifically, whether a food delivery app script is actually cheaper than building from scratch, and what a complete food ordering app template needs across restaurants and delivery partners.
 # **What Is Included in a Ready-Made Food Delivery App?**
 A ready made food delivery app needs to function as four connected pieces, not one app with three afterthoughts attached. UrbanBite ships a User app, a Restaurant app, a Delivery Partner app, and an Admin panel, all reading from the same backend, which is the structure most genuine food delivery app source code is built around.
@@ -60,4 +62,4 @@ UrbanBite is built with Flutter on the frontend and Supabase as the backend, the
  A genuine ready made food delivery app should. UrbanBite sends notifications for order status updates at each stage, from order placement through delivery.
  
 ## **Learn More**
-UrbanBite is available through the Arixlabs Marketplace. You can see the full feature breakdown and listing details on the UrbanBite page.
+UrbanBite is available through the Arixlabs Marketplace. You can see the full feature breakdown and listing details on the [UrbanBite page](https://www.arixlabs.com/marketplace/urban-bite---food-delivery-app).
