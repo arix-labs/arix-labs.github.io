@@ -41,11 +41,11 @@ A streak counter
 
 A water tracker with a daily hydration target
 
-# How Does Barcode Food Scanning Work in a Nutrition App?
+## How Does Barcode Food Scanning Work in a Nutrition App?
 Barcode scanning typically works by matching a scanned product code against a food database to pull nutrition information automatically, with manual entry available as a fallback when a product isn't found. MealMate's barcode scanner follows this pattern, reducing the friction of logging packaged food compared to manual search every time.
-# What Should a Meal Planner and Grocery List Feature Include?
+## What Should a Meal Planner and Grocery List Feature Include?
 A meal planner feature should let users lay out meals across the week, either manually or through auto-generation based on their goals, with a grocery list that updates automatically as the plan changes. MealMate's meal planner offers both manual and auto-generate options, with a grocery list generated directly from the weekly meal plan rather than requiring users to build it separately.
-# How Is Progress Tracked in a Nutrition or Wellness App?
+## How Is Progress Tracked in a Nutrition or Wellness App?
 Progress tracking in a wellness app typically combines a weight trend graph, nutrition trends over time, body measurements, and progress photos, rather than relying on a single number. MealMate covers:
 Weight trend graph
 
@@ -57,11 +57,11 @@ Progress photos
 
 Reminders for meal logging, water intake, weigh-ins, and daily streaks
 
-# Can a White Label Nutrition App Be Customized for a Specific Diet Niche?
+## Can a White Label Nutrition App Be Customized for a Specific Diet Niche?
 Yes, when the underlying app is structured for it. Diet preference and allergy data captured during onboarding should feed into food recommendations and recipe content without requiring changes to the core tracking logic. MealMate's onboarding and recipe library are built around this kind of configurable input, which is part of what makes it usable as a white label nutrition app for a specific diet community rather than a generic one-size-fits-all build. The same logic applies to any white label nutrition app trying to serve more than one niche from a single codebase.
 # **What Should You Check Before Buying App Templates for Sale?**
 Before buying any of the app templates for sale in the nutrition category specifically, it's worth checking whether the dashboard reflects live data or static placeholders, whether barcode scanning and food search are functional, and whether the recipe library and grocery list are actually connected to the meal planner rather than separate, disconnected features.
-# Why Do Agencies Look for a White Label App Builder Specifically?
+## Why Do Agencies Look for a White Label App Builder Specifically?
 Agencies and coaches building nutrition products for multiple clients typically want a white label app builder rather than a single-brand app, since reusing one core product across several launches is far faster than building a new tracking system for every client. The parts that need to stay the same — calorie calculation, macro tracking, food database matching — shouldn't have to be rebuilt just because the branding or target diet changes.
 MealMate is structured around this separation, with the tracking engine staying fixed while onboarding inputs, recipe content, and branding change per deployment. That's the practical reason a white label app builder matters more to an agency than to someone launching a single nutrition app for their own audience — the same investment in getting the core right pays off across every future client rather than just one.
 # **Tech Stack**
